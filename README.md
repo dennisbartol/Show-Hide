@@ -1,2 +1,2 @@
 # Show-Hide
-Show and hide your PW, through Javascript. 
+Show and hide your PW, powered by vanilla Javascript. 
